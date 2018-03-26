@@ -11,4 +11,4 @@ mod 'puppetlabs-apt',
 
 mod 'testrepo',
   :git => 'git@github.com:jmorriso63/testrepo.git',
-  :branch => 'staging'
+  :branch => 'master'
