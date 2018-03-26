@@ -1,6 +1,3 @@
-!/usr/bin/env ruby
-#^syntax detection
-
 forge "https://forgeapi.puppetlabs.com"
 
 mod 'puppetlabs-stdlib'
@@ -13,5 +10,5 @@ mod 'puppetlabs-apt',
   :ref => '1.4.x'
 
 mod 'testrepo',
-  :git => 'https://github.com/jmorriso63/testrepo.git',
+  :git => 'git@github.com:jmorriso63/testrepo.git'
   :branch => 'master'
