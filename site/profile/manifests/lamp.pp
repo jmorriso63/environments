@@ -1,4 +1,4 @@
-class baseconfig::lamp {
+class profile::lamp {
     include apache
     include mysql::server
     include php
