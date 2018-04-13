@@ -14,5 +14,5 @@ mod 'testrepo',
   :branch => 'master'
 
 mod 'apache',
-  :git => 'https://github.com/jmorriso63/apache.git'
+  :git => 'https://github.com/jmorriso63/apache.git',
   :branch => 'master'
